@@ -1,0 +1,311 @@
+{
+  "ValType": [
+    {
+      "Valute": [
+        {
+          "Nominal": "1 t.u.",
+          "Name": "Palladium",
+          "Value": "559.1346",
+          "Code": "XPD"
+        },
+        {
+          "Nominal": "1 t.u.",
+          "Name": "Platin",
+          "Value": "1088.4696",
+          "Code": "XPT"
+        },
+        {
+          "Nominal": "1 t.u.",
+          "Name": "Gümüş",
+          "Value": "15.2213",
+          "Code": "XAG"
+        },
+        {
+          "Nominal": "1 t.u.",
+          "Name": "Qızıl",
+          "Value": "974.3685",
+          "Code": "XAU"
+        }
+      ],
+      "Type": "Bank metalları"
+    },
+    {
+      "Valute": [
+        {
+          "Nominal": "1",
+          "Name": "1 ABŞ dolları",
+          "Value": "0.7842",
+          "Code": "USD"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Avro",
+          "Value": "1.0625",
+          "Code": "EUR"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Avstraliya dolları",
+          "Value": "0.6872",
+          "Code": "AUD"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Argentina pesosu",
+          "Value": "0.0980",
+          "Code": "ARS"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Belarus rublu",
+          "Value": "0.0081",
+          "Code": "BYN"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Braziliya realı",
+          "Value": "0.3252",
+          "Code": "BRL"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 BƏƏ dirhəmi",
+          "Value": "0.2135",
+          "Code": "AED"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Cənubi Afrika randı",
+          "Value": "0.0700",
+          "Code": "ZAR"
+        },
+        {
+          "Nominal": "100",
+          "Name": "100 Cənubi Koreya vonu",
+          "Value": "0.0726",
+          "Code": "KRW"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Çexiya kronu",
+          "Value": "0.0385",
+          "Code": "CZK"
+        },
+        {
+          "Nominal": "100",
+          "Name": "100 Çili pesosu",
+          "Value": "0.1431",
+          "Code": "CLP"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Çin yuanı",
+          "Value": "0.1294",
+          "Code": "CNY"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Danimarka kronu",
+          "Value": "0.1424",
+          "Code": "DKK"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Gürcüstan larisi",
+          "Value": "0.4401",
+          "Code": "GEL"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Honq Konq dolları",
+          "Value": "0.1010",
+          "Code": "HKD"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Hindistan rupisi",
+          "Value": "0.0126",
+          "Code": "INR"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 İngiltərə funt sterlinqi",
+          "Value": "1.2920",
+          "Code": "GBP"
+        },
+        {
+          "Nominal": "100",
+          "Name": "100 İndoneziya rupiası",
+          "Value": "0.0064",
+          "Code": "IDR"
+        },
+        {
+          "Nominal": "100",
+          "Name": "100 İran rialı",
+          "Value": "0.0032",
+          "Code": "IRR"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 İsveç kronu",
+          "Value": "0.1203",
+          "Code": "SEK"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 İsveçrə frankı",
+          "Value": "0.8688",
+          "Code": "CHF"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 İsrail şekeli",
+          "Value": "0.2246",
+          "Code": "ILS"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Kanada dolları",
+          "Value": "0.7018",
+          "Code": "CAD"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Küveyt dinarı",
+          "Value": "2.7736",
+          "Code": "KWD"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Qazaxıstan tengəsi",
+          "Value": "0.0050",
+          "Code": "KZT"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Qırğızıstan somu",
+          "Value": "0.0156",
+          "Code": "KGS"
+        },
+        {
+          "Nominal": "100",
+          "Name": "100 Livan funtu",
+          "Value": "0.0522",
+          "Code": "LBP"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Malayziya rinqqiti",
+          "Value": "0.2343",
+          "Code": "MYR"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Meksika pesosu",
+          "Value": "0.0587",
+          "Code": "MXN"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Moldova leyi",
+          "Value": "0.0589",
+          "Code": "MDL"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Misir funtu",
+          "Value": "0.1126",
+          "Code": "EGP"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Norveç kronu",
+          "Value": "0.1255",
+          "Code": "NOK"
+        },
+        {
+          "Nominal": "100",
+          "Name": "100 Özbəkistan somu",
+          "Value": "0.0353",
+          "Code": "UZS"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Polşa zlotısı",
+          "Value": "0.2509",
+          "Code": "PLN"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Rusiya rublu",
+          "Value": "0.0225",
+          "Code": "RUB"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Sinqapur dolları",
+          "Value": "0.6145",
+          "Code": "SGD"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Səudiyyə Ərəbistanı rialı",
+          "Value": "0.2091",
+          "Code": "SAR"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 SDR (BVF-nin xüsusi borcalma hüquqları)",
+          "Value": "1.2047",
+          "Code": "SDR"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Türkiyə lirəsi",
+          "Value": "0.3460",
+          "Code": "TRY"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Tayvan dolları",
+          "Value": "0.0258",
+          "Code": "TWD"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Tacikistan somonisi",
+          "Value": "0.1646",
+          "Code": "TJS"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Türkmənistan manatı",
+          "Value": "0.2752",
+          "Code": "TMT"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Ukrayna qrivnası",
+          "Value": "0.0933",
+          "Code": "UAH"
+        },
+        {
+          "Nominal": "100",
+          "Name": "100 Yaponiya yeni",
+          "Value": "0.7656",
+          "Code": "JPY"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Yeni Zelandiya dolları",
+          "Value": "0.6378",
+          "Code": "NZD"
+        }
+      ],
+      "Type": "Xarici valyutalar"
+    }
+  ],
+  "Date": "31.01.2014",
+  "Name": "AZN məzənnələri",
+  "Description": "Azərbaycan Respublikası Mərkəzi Bankının 31.01.2014 tarixdən etibarən xarici valyutaların və bank metallarının Azərbaycan manatına qarşı rəsmi məzənnələri bülleteni"
+}

@@ -1,0 +1,16 @@
+C:\Lessons\tasks\08-04-2022Task2\08-04-2022Task2\bin\Debug\netcoreapp3.1\08-04-2022Task2.exe
+C:\Lessons\tasks\08-04-2022Task2\08-04-2022Task2\bin\Debug\netcoreapp3.1\08-04-2022Task2.deps.json
+C:\Lessons\tasks\08-04-2022Task2\08-04-2022Task2\bin\Debug\netcoreapp3.1\08-04-2022Task2.runtimeconfig.json
+C:\Lessons\tasks\08-04-2022Task2\08-04-2022Task2\bin\Debug\netcoreapp3.1\08-04-2022Task2.runtimeconfig.dev.json
+C:\Lessons\tasks\08-04-2022Task2\08-04-2022Task2\bin\Debug\netcoreapp3.1\08-04-2022Task2.dll
+C:\Lessons\tasks\08-04-2022Task2\08-04-2022Task2\bin\Debug\netcoreapp3.1\08-04-2022Task2.pdb
+C:\Lessons\tasks\08-04-2022Task2\08-04-2022Task2\obj\Debug\netcoreapp3.1\08-04-2022Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lessons\tasks\08-04-2022Task2\08-04-2022Task2\obj\Debug\netcoreapp3.1\08-04-2022Task2.AssemblyInfoInputs.cache
+C:\Lessons\tasks\08-04-2022Task2\08-04-2022Task2\obj\Debug\netcoreapp3.1\08-04-2022Task2.AssemblyInfo.cs
+C:\Lessons\tasks\08-04-2022Task2\08-04-2022Task2\obj\Debug\netcoreapp3.1\08-04-2022Task2.csproj.CoreCompileInputs.cache
+C:\Lessons\tasks\08-04-2022Task2\08-04-2022Task2\obj\Debug\netcoreapp3.1\08-04-2022Task2.dll
+C:\Lessons\tasks\08-04-2022Task2\08-04-2022Task2\obj\Debug\netcoreapp3.1\08-04-2022Task2.pdb
+C:\Lessons\tasks\08-04-2022Task2\08-04-2022Task2\obj\Debug\netcoreapp3.1\08-04-2022Task2.genruntimeconfig.cache
+C:\Lessons\tasks\08-04-2022Task2\08-04-2022Task2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Lessons\tasks\08-04-2022Task2\08-04-2022Task2\obj\Debug\netcoreapp3.1\08-04-2022Task2.csproj.AssemblyReference.cache
+C:\Lessons\tasks\08-04-2022Task2\08-04-2022Task2\obj\Debug\netcoreapp3.1\08-04-2022Task2.csproj.CopyComplete

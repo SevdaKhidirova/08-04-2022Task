@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rroC8yeCIqkt3bbnlaX4YMhEirya5ka+rvZCgYB33oA7NxaUW6OrHnNei+BXM4q7Mh4ClYQ86yy1q6ZV0AtOJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\daniz\\Desktop\\Task\\08-04-2022Task2\\08-04-2022Task2\\08-04-2022Task2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daniz\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
