@@ -1,0 +1,14 @@
+C:\Lessons\tasks\MailTask\MailTask\bin\Debug\netcoreapp3.1\MailTask.exe
+C:\Lessons\tasks\MailTask\MailTask\bin\Debug\netcoreapp3.1\MailTask.deps.json
+C:\Lessons\tasks\MailTask\MailTask\bin\Debug\netcoreapp3.1\MailTask.runtimeconfig.json
+C:\Lessons\tasks\MailTask\MailTask\bin\Debug\netcoreapp3.1\MailTask.runtimeconfig.dev.json
+C:\Lessons\tasks\MailTask\MailTask\bin\Debug\netcoreapp3.1\MailTask.dll
+C:\Lessons\tasks\MailTask\MailTask\bin\Debug\netcoreapp3.1\MailTask.pdb
+C:\Lessons\tasks\MailTask\MailTask\obj\Debug\netcoreapp3.1\MailTask.csproj.AssemblyReference.cache
+C:\Lessons\tasks\MailTask\MailTask\obj\Debug\netcoreapp3.1\MailTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lessons\tasks\MailTask\MailTask\obj\Debug\netcoreapp3.1\MailTask.AssemblyInfoInputs.cache
+C:\Lessons\tasks\MailTask\MailTask\obj\Debug\netcoreapp3.1\MailTask.AssemblyInfo.cs
+C:\Lessons\tasks\MailTask\MailTask\obj\Debug\netcoreapp3.1\MailTask.csproj.CoreCompileInputs.cache
+C:\Lessons\tasks\MailTask\MailTask\obj\Debug\netcoreapp3.1\MailTask.dll
+C:\Lessons\tasks\MailTask\MailTask\obj\Debug\netcoreapp3.1\MailTask.pdb
+C:\Lessons\tasks\MailTask\MailTask\obj\Debug\netcoreapp3.1\MailTask.genruntimeconfig.cache
